@@ -1,0 +1,2 @@
+1. Install netbeans 
+2.Open netbeans and then run 'TicTacToe'  file
